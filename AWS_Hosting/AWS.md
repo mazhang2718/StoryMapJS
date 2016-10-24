@@ -17,6 +17,6 @@ Note: While Amazon supports free web hosting through its Free Tier option, after
 6. Amazon will spend ~15 minutes to publish your Gigapixel to their servers, but once Amazon is done, they will provide you a link to your hosted webpage.
 ![](6.png)
 
-You're done! Use the [https://storymap.knightlab.com/select/](Storymap authoring tool) to create your Gigapixel and include the link to your Amazon webpage.
+You're done! Use the [Storymap authoring tool](https://storymap.knightlab.com/select/) to create your Gigapixel and include the link to your Amazon webpage.
 
 ![](7.png)
