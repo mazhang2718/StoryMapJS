@@ -1,12 +1,12 @@
 # Hosting your Gigapixel through Amazon Web Services
 
-Before you can begin this process, you wil need to have generated Zoomify images. You can learn more about how to make one (here)[https://storymap.knightlab.com/gigapixel/].
+Before you can begin this process, you wil need to have generated Zoomify images. You can learn more about how to make one [https://storymap.knightlab.com/gigapixel/](here).
 
-Note: While Amazon supports free web hosting through its Free Tier option, after a year, you will have to pay to use their hosting services. It's relatively cheap (~$.03 / month for 1 GB, using thep pricing calculator here: https://calculator.s3.amazonaws.com/index.html), but if you want an entirely free option, you can check out our GitHub hosting tutorial.
+Note: While Amazon supports free web hosting through its Free Tier option, after a year, you will have to pay to use their hosting services. It's relatively cheap (~$.03 / month for 1 GB, using their [https://calculator.s3.amazonaws.com/index.html](pricing calculator), but if you want an entirely free option, you can check out our GitHub hosting tutorial.
 
-1. Sign up to create an account on Amazon Web Services (https://aws.amazon.com/).
+1. Sign up to create an account on [https://aws.amazon.com/](Amazon Web Services).
 ![](1.png)
-2. Once your account has been created, choose the quickstart web hosting option on your dashboard. (https://console.aws.amazon.com/quickstart-website/new)
+2. Once your account has been created, choose the [https://console.aws.amazon.com/quickstart-website/new](quickstart web hosting option) on your dashboard.
 ![](2.png)
 3. On your computer, navigate to the folder where you've stored your Gigapixel tiles. Inside the directory, create an empty file called 'index.html.'
 ![](3.png)
